@@ -1,6 +1,6 @@
 # Deeplabv3-Segmentation 
 ### Dataset
-Dataset: [http://host.robots.ox.ac.uk/pascal/VOC/](url)
+PascalVOC Dataset: [http://host.robots.ox.ac.uk/pascal/VOC/](url)
 
 ### Results
 - Test IoU: 0.735
